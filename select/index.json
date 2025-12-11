@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Splinter Wolf",
+  "base_artist": "KOHTA YAMAMOTO",
+  "createdAt": "2025-12-11T11:09:42.770009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": true,
+      "path": "select/01_Splinter_Wolf_KOHTA_YAMAMOTO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": true,
+      "path": "select/02_Splinter_Wolf_KOHTA_YAMAMOTO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Splinter Wolf - KOHTA YAMAMOTO Self-Remix",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": false,
+      "path": "select/03_Splinter_Wolf_-_KOHTA_YAMAMOTO_Self-Remix_KOHTA_YAMAMOTO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "Kohta Yamamoto",
+      "has_synced": true,
+      "path": "select/04_Splinter_Wolf_Kohta_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": true,
+      "path": "select/05_Splinter_Wolf_KOHTA_YAMAMOTO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": true,
+      "path": "select/06_Splinter_Wolf_KOHTA_YAMAMOTO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Splinter Wolf - KOHTA YAMAMOTO Self‐Remix",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": false,
+      "path": "select/07_Splinter_Wolf_-_KOHTA_YAMAMOTO_Self‐Remix_KOHTA_YAMAMOTO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Splinter Wolf - KOHTA YAMAMOTO Self‐Remix",
+      "artist": "Yamamoto, Kohta",
+      "has_synced": false,
+      "path": "select/08_Splinter_Wolf_-_KOHTA_YAMAMOTO_Self‐Remix_Yamamoto,_Kohta.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO official",
+      "has_synced": true,
+      "path": "select/09_Splinter_Wolf_KOHTA_YAMAMOTO_official.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO / 澤野弘之",
+      "has_synced": true,
+      "path": "select/10_Splinter_Wolf_KOHTA_YAMAMOTO___澤野弘之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Splinter Wolf",
+      "artist": "KOHTA YAMAMOTO",
+      "has_synced": false,
+      "path": "select/pl_01_Splinter_Wolf_KOHTA_YAMAMOTO.txt"
+    }
+  ]
+}
